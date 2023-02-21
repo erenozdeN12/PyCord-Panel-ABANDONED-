@@ -4,9 +4,11 @@ You can use PyCord Panel for editing some settings of your Discord Bot. With the
 # Version : Developing 1.0.1
 What's New: <br>
 
--> Now you can start your bot :) <br>
--> Also some fixes in Front-End <br>
+-> Some fixes in Front-End <br>
 -> Also .ini File communication is over <br>
 
 ![image](https://user-images.githubusercontent.com/79940015/220231652-3609c073-ec1d-437b-b71a-43812b8e7d6c.png)
 
+# Plan For Version : Developing 1.0.2 
+
+-> Should make "Login", "Restart", "Stop" buttons functional
